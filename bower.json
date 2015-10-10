@@ -1,0 +1,18 @@
+{
+  "name": "basscsstutorial",
+  "version": "0.0.0",
+  "authors": [
+    "Pamela Dodera <pame.gdodera@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "basscss": "~7.0.4"
+  }
+}
